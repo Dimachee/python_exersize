@@ -3,5 +3,4 @@ def new(n):
 n = 40 
 print(new(n))
 n = 2 
-print(new(n))
-23
+
